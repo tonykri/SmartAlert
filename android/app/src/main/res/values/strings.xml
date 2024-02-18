@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">SmartAlert</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_register">You do not have an account?</string>
+    <string name="register_login">Already have an account?</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="dangers">Dangers</string>
+    <string name="requests">Requests</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <string name="protection">Protection</string>
+    <string name="created">Created At</string>
+    <string name="message">Message</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="approved">Approved</string>
+    <string name="similar_requests">Similar Requests</string>
+    <string name="add">Add</string>
+    <string name="approve">Approve</string>
+    <string name="decline">Decline</string>
+    <string name="add_request">Add Request</string>
+    <string name="total">Total</string>
+
+    <string-array name="categories">
+        <item>Fire</item>
+        <item>Earthquake</item>
+        <item>Flood</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Ελληνικά</item>
+    </string-array>
+
+</resources>

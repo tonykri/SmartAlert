@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in">Σύνδεση</string>
+    <string name="sign_up">Εγγραφή</string>
+    <string name="login_register">Δεν έχεις λογαριασμό;</string>
+    <string name="register_login">Έχεις ήδη λογαριασμό;</string>
+    <string name="firstname">Όνομα</string>
+    <string name="lastname">Επίθετο</string>
+    <string name="password">Κωδικός</string>
+    <string name="birthdate">Ημ. γέννησης</string>
+    <string name="login">Σύνδεση</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="register">Εγγραφή</string>
+    <string name="dangers">Κίνδυνοι</string>
+    <string name="requests">Αιτήσεις</string>
+    <string name="profile">Προφίλ</string>
+    <string name="category">Κατηγορία</string>
+    <string name="protection">Προστασία</string>
+    <string name="created">Ημ. δημιουργίας</string>
+    <string name="message">Μήνυμα</string>
+    <string name="coordinates">Συντεταγμένες</string>
+    <string name="approved">Αποδοχή</string>
+    <string name="similar_requests">Παρόμοιες αιτήσεις</string>
+    <string name="add">Προσθήκη</string>
+    <string name="approve">Αποδοχή</string>
+    <string name="decline">Απόρριψη</string>
+    <string name="add_request">Προσθήκη κινδύνου</string>
+    <string name="total">Συνολικά</string>
+</resources>
